@@ -63,13 +63,7 @@
 </style>
 <body style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;"  id="body">
     <div id="app" class="full-height"></div>
-    <script src="https://extension-files.twitch.tv/helper/v1/twitch-ext.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
-            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-            crossorigin="anonymous"></script>
-    <!--<script src="viewer.js" type="text/javascript"></script>-->
-    
-	<div id="_osn" style="left: 50%">
+    	<div id="_osn" style="left: 50%">
         <div id="_block">
 
 			<div id="_head">
